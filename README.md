@@ -1,7 +1,5 @@
 # SPML-TASK-1
 
-# SPML Task 1
-
 ## Base Task
 
 Implemented a Fashion-MNIST image classification model using PyTorch.
